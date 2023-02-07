@@ -1,5 +1,0 @@
-HelloTest.BasicAssertions 1 0.00383557
-MyDBTest.LoginTest 67 5.15167e-05
-Abc.Abc 0 0
-Abc.aaa 13 0.000115469
----
