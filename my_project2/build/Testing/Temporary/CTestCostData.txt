@@ -1,6 +1,0 @@
-MockTestAdBook.MockTest2 0 0
-MockTestAdBook1.MockTest2 2 0.00128849
-MockTestAdBook2.MockTest2 2 0.00223486
-MockTestAdBook3.MockTest2 2 0.00155985
-MockTestAdBook4.MockTest2 2 0.00150283
----

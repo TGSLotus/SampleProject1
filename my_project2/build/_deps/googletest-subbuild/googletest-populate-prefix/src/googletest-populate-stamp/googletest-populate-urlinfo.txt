@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/google/googletest/archive/d9251171f5a42eaf993395e7ef127546af5814b0.zip'
-tag=''
