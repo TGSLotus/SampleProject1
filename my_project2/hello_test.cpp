@@ -59,7 +59,7 @@ using ::testing::_;
 TEST(MockTestAdBook1, MockTest2){
   MockClass2 mockClass2;
   EXPECT_CALL(mockClass2, read_file()).Times(AtLeast(1)).WillOnce(Return(true));
-  EXPECT_EQ(mockClass2.read_file(), 1);
+  EXPECT_EQ(mockClass2.read_file(), 0);
 };
 
 TEST(MockTestAdBook2, MockTest2){
